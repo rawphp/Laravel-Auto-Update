@@ -1,5 +1,5 @@
 {
-  "name": "rawphp/auto-update",
+  "name": "rawphp/laravel-auto-update",
   "description": "Auto-Updater for Laravel Projects",
   "license": "MIT",
   "authors": [
