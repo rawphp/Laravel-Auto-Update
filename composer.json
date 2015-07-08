@@ -1,0 +1,25 @@
+{
+  "name": "rawphp/auto-update",
+  "description": "Auto-Updater for Laravel Projects",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tom Kaczocha",
+      "email": "tom@rawphp.org"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "illuminate/support": "~5.1",
+    "sam-it/php-auto-update": "^1.0"
+  },
+  "require-dev": {
+    "mockery/mockery": "dev-master"
+  },
+  "autoload": {
+    "psr-0": {
+      "RawPHP\\MetaData": "src/"
+    }
+  },
+  "minimum-stability": "stable"
+}
